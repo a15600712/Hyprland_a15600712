@@ -113,12 +113,6 @@ device:epic-mouse-v1 {
     sensitivity = -0.5
 }
 
-# Volume
-bind = , XF86AudioRaiseVolume, exec, ~/.config/hypr/scripts/volume --inc 
-bind = , XF86AudioLowerVolume, exec, ~/.config/hypr/scripts/volume --dec 
-bind = , XF86AudioMicMute, exec, ~/.config/hypr/scripts/volume --toggle-mic 
-bind = , XF86AudioMute, exec, ~/.config/hypr/scripts/volume --toggle
-
 # Example windowrule v1
 # windowrule = float, ^(kitty)$
 # Example windowrule v2
@@ -146,8 +140,6 @@ bind = $mainMod, L, exec, swaylock
 bind = $mainMod SHIFT, L, exec, wlogout
 bind = $mainMod, o, exec, ~/Obsidian-1.4.16.AppImage  
 bind = $mainMod, b, exec, brave
-
-
 
 binde = ,code:232,exec, brightnessctl set 5%-
 binde = ,code:233,exec, brightnessctl set 5%+
