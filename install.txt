@@ -27,10 +27,10 @@ hyprland-qt-support
 hyprland-qtutils
 hyprlang
 hyprlock
-hyprpaper
 hyprpolkitagent
 hyprshot
 hyprsysteminfo
+hyprpaper
 hyprutils
 iw
 nautilus
@@ -77,3 +77,8 @@ xdg-desktop-portal-gtk
 xdg-desktop-portal-hyprland
 xdg-desktop-portal-wlr
 xwaylandvideobridge
+ethtool
+tlp
+tlp-rdw
+tlpui
+pavucontrol
