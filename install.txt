@@ -85,3 +85,9 @@ pavucontrol
 qt5ct
 qt6ct
 qt4ct
+cliphist
+nautilus-admin-gtk4
+nautilus-image-converter
+nautilus-open-any-terminal
+udiskie
+overskride
