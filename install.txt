@@ -82,3 +82,6 @@ tlp
 tlp-rdw
 tlpui
 pavucontrol
+qt5ct
+qt6ct
+qt4ct
