@@ -33,3 +33,6 @@ sudo mkinitcpio -P
 ```
 sudo usermod -aG input $USER
 ```
+## HesRes Audio
+Use pipewire & follow
+[https://forum.manjaro.org/t/howto-set-up-a-hi-res-audiophile-usb-dac-cambridge-audio/80724](https://forum.manjaro.org/t/howto-set-up-a-hi-res-audiophile-usb-dac-cambridge-audio/80724)

@@ -7,7 +7,7 @@ alias z="fzf --style full --preview 'bat --color=always {}' | xargs -r --delimit
 alias h='nmcli device wifi hotspot ifname wlan0 ssid Hotspot password 88888888 && nmcli dev wifi show-password'
 alias hk='nmcli device disconnect wlan0'
 
-
+pyenv init - fish | source
 #export GTK_IM_MODULE=fcitx
 
 export QT_IM_MODULE=fcitx
