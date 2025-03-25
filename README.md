@@ -29,3 +29,7 @@ sudo mkinitcpio -P
 2. Uncomment FastConnectable config and set it to true: FastConnectable = true
 3. Uncomment ReconnectAttempts=7 (set the value to whatever number that you want)
 4. Uncomment ReconnectIntervals=1, 2, 3
+## if keyboard status is not showing on waybar
+```
+sudo usermod -aG input $USER
+```

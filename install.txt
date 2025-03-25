@@ -91,3 +91,10 @@ nautilus-image-converter
 nautilus-open-any-terminal
 udiskie
 overskride
+otf-font-awesome
+tf-dejavu
+ttf-liberation
+noto-fonts
+noto-fonts-emoji
+noto-fonts-cjk
+ttf-font-awesome
